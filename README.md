@@ -29,6 +29,7 @@
 📫 You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-szafeiris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/szafeiris/)](https://www.linkedin.com/in/szafeiris/)
 [![Instagram Badge](https://img.shields.io/badge/-szafeiris-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/szafeiris/)](https://instagram.com/szafeiris)
+[![Twitter Badge](https://img.shields.io/badge/-szafeiris-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/stelios_zafiris)](https://twitter.com/stelios_zafiris)
 
 
 <!--
